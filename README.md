@@ -1,10 +1,14 @@
-# SPEC-1 - Writing Specifications with AI
+# Starter repo - SPEC-1
 
-This exercise turns a raw user story into a structured functional specification using Copilot Plan Mode.
+This minimal repository contains the starting material for the exercise.
 
 Files:
 
-- `INSTALLATION.md`: prerequisites and setup.
-- `GUIDE.md`: step-by-step exercise instructions.
-- `SCRIPT_VIDEO.md`: French script for the illustration video.
-- `repo/`: starter repository.
+- `user-story.md`: initial need to transform into a specification.
+- `spec.md`: file to create during the exercise.
+
+Useful command:
+
+```bash
+# No technical setup required.
+```
